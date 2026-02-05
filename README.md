@@ -25,12 +25,13 @@ This project demonstrates real-world backend deployment concepts like:
 ## 📁 Project Structure
 
 my_pythonapp/ 
-├── app.py
-├── requirements.txt
-├── users.db
-├── myenv/
-└── templates/
-├── index.html
+<br>
+├── app.py   <br>
+├── requirements.txt  <br>
+├── users.db   <br>
+├── myenv/   <br>
+└── templates/  <br>
+├── index.html  <br>
 └── users.html
 
 ---
